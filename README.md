@@ -1,6 +1,6 @@
 # Coding for little humans
 
-This is the slides from my presentation. 
+You can find the slides from my presentation at Gather NZ and the links below. 
 
 ## Links for some of the groups:
 * [Code Club Aotearoa](http://www.codeclub.nz/)
